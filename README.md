@@ -10,13 +10,13 @@ The project followed a full-cycle data analysis workflow: from Exploratory Data 
 ## 🚀 Key Dashboard Features
 - Executive KPIs: Real-time tracking of Total Sales ($698.8K), Total Orders (149K), and Total Quantity Sold (214K) with Month-over-Month (MoM) growth indicators.
 - Sales Trend Analysis: A dynamic line and bar chart combo showing daily sales fluctuations against a 3,188.22 average sales baseline.
-- Operational Heat Map: A "Peak Hour" matrix breaking down sales by day of the week and hour of the day—identifying the 8:00 AM - 10:00 AM window as the highest foot traffic period.
+- Operational Heat Map: A "Peak Hour" matrix breaking down sales by day of the week and hour of the day identifying the 8:00 AM - 10:00 AM window as the highest foot traffic period.
 - Product & Category Performance: Comparative analysis of revenue across 9 product categories and top 10 product types (led by Barista Espresso).
 - Store Location Intelligence: Insights into revenue distribution across Hell's Kitchen, Astoria, and Lower Manhattan, with specific growth metrics for each.
 
 
 ## 🛠️ Tools Used
-- SQL (MySQL): Used for the "Engine Room" phase—data cleaning, handling date-time formats, and calculating complex business metrics like MoM growth using Window Functions (LAG) and CTEs.
+- SQL (MySQL): Used for the "Engine Room" phase data cleaning, handling date-time formats, and calculating complex business metrics like MoM growth using Window Functions (LAG) and CTEs.
 - Power BI: Developed an interactive UI/UX with a cohesive coffee-themed brand identity.
 - DAX (Data Analysis Expressions): Created measures for Time Intelligence, dynamic KPI cards, and conditional formatting for the MoM performance indicators.
 - Power Query: Performed final data shaping and established a star-schema relationship between the transaction data and a custom Calendar Table.
