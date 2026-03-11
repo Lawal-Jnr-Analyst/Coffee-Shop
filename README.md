@@ -29,7 +29,7 @@ The project followed a full-cycle data analysis workflow: from Exploratory Data 
 - Regional Consistency: Sales are remarkably balanced across the three store locations, suggesting that the brand has strong, consistent demand regardless of the specific neighborhood.
 
 ## 🖥️ Preview
-[Coffee Shop Sales](https://github.com/Lawal-Jnr-Analyst/Call-Center/blob/main/Call%20Center%20(1).jpg)
+[Coffee Shop Sales](https://github.com/Lawal-Jnr-Analyst/Coffee-Shop/blob/main/coffee%20shop.jpg)
 >click the link above to see a preview of the final dashboard.
 
 [Coffee Shop Video](https://www.linkedin.com/posts/lawal-jnr-analyst_powerbi-datavisualization-sql-activity-7437468898700107776-7cCr/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdwX3YBH9XbhvRdRK9JiftNAwAPCSVEZLY)
