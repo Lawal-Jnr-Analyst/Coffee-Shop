@@ -29,7 +29,7 @@ The project followed a full-cycle data analysis workflow: from Exploratory Data 
 - Regional Consistency: Sales are remarkably balanced across the three store locations, suggesting that the brand has strong, consistent demand regardless of the specific neighborhood.
 
 ## 🖥️ Preview
-[Coffee Shop Sales](<iframe title="coffee shop" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYmJlM2QwMWYtMTlmMy00MTk4LTkxZmMtNTcwMmE5N2E4OTA3IiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9" frameborder="0" allowFullScreen="true"></iframe>)
+[Coffee Shop Sales](https://app.powerbi.com/view?r=eyJrIjoiYmJlM2QwMWYtMTlmMy00MTk4LTkxZmMtNTcwMmE5N2E4OTA3IiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)
 >The full interactive dashboard is available via the link above.
 
 
